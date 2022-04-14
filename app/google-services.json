@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561135142413",
+    "project_id": "cleanscem",
+    "storage_bucket": "cleanscem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561135142413:android:b1a799e26a8a10a88cb744",
+        "android_client_info": {
+          "package_name": "com.example.cleanscem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561135142413-ttqkcppotmpfup3qfrau94h3f9a3sp46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRD4_mwWyeAQ3xRw2sXvqFTBpqEY7Me20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561135142413-ttqkcppotmpfup3qfrau94h3f9a3sp46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
